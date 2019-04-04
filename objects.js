@@ -1,1 +1,1 @@
-var playlist = new Object(g})
+var playlist = new Object({ keys: `0` })
